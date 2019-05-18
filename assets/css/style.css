@@ -363,6 +363,7 @@ u {
     position: absolute;
     z-index: -1;
     clip-path: polygon(0 0, 100% 0, 0 100%);
+    -webkit-clip-path: polygon(0 0, 100% 0, 0 100%);
     top: 0;
     transform: rotate(180deg);
     transform-origin: 50% 0%;
@@ -375,6 +376,7 @@ u {
     position: absolute;
     z-index: -1;
     clip-path: polygon(100% 100%, 100% 0, 0 100%);
+    -webkit-clip-path: polygon(100% 100%, 100% 0, 0 100%);
     bottom: 0;
     transform: rotate(180deg);
     transform-origin: 50% 100%;
@@ -985,6 +987,7 @@ u {
     position: absolute;
     z-index: -1;
     clip-path: polygon(0 0, 100% 0, 0 100%);
+    -webkit-clip-path: polygon(0 0, 100% 0, 0 100%);
     top: 0;
     transform: rotate(180deg);
     transform-origin: 50% 0%;
@@ -997,6 +1000,7 @@ u {
     position: absolute;
     z-index: -1;
     clip-path: polygon(100% 100%, 100% 0, 0 100%);
+    -webkit-clip-path: polygon(100% 100%, 100% 0, 0 100%);
     bottom: 0;
     transform: rotate(180deg);
     transform-origin: 50% 100%;
@@ -1504,6 +1508,7 @@ u {
     position: absolute;
     z-index: -1;
     clip-path: polygon(0 0, 100% 0, 0 100%);
+    -webkit-clip-path: polygon(0 0, 100% 0, 0 100%);
     top: 0;
     transform: rotate(180deg);
     transform-origin: 50% 0%;
@@ -1516,6 +1521,7 @@ u {
     position: absolute;
     z-index: -1;
     clip-path: polygon(100% 100%, 100% 0, 0 100%);
+    -webkit-clip-path: polygon(100% 100%, 100% 0, 0 100%);
     bottom: 0;
     transform: rotate(180deg);
     transform-origin: 50% 100%;
